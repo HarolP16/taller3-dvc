@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
+['remote "aws-remote"']
+    url = s3://harolp16-miid4304-dvc-20261018
